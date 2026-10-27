@@ -18,3 +18,16 @@
 
 1. 숫자 1
 2. 숫자 2
+
+---
+
+
+# 2026-10-27 TIL 무서운 Git / Github
+
+## 오늘 Git 명령어
+
+```sh
+Git init
+git config --list
+git config --global user.email "terry010407@gmail.com"
+```
